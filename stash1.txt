@@ -1,1 +1,2 @@
-I am stash file number 1
+I am stash file number 1 
+lets do some magic.
